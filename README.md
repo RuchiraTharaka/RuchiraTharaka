@@ -6,7 +6,7 @@
 <h4 align="left"> ❇️ Enthusiastic and Smart 🐘 Hard Worker 🐎</h4>
 <h4 align="left"> ✅ Love thinking🤔, managing👮‍♂️ and innovation🌏</h4>
 <h4 align="left"> ❇️ Into sports🏏, sketching🎨 and enjoying🐵</h4>
-
+<h4 align="left"> ❇️ Into sports🏏, sketching🎨 and enjoying🐵</h4>
 
 <h3 align="right"> Connect with me</h3>
 <p align="right">
