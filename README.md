@@ -1,5 +1,5 @@
 ![1655999988607](https://user-images.githubusercontent.com/99112218/224882620-2d0f6ae5-ca69-4f04-a5b9-83edc6d47978.jpeg)
-
+<h1 align="left">Hi 👋, I'm Ruchira 😎</h1>
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me: @ruchira [Gmail](ruchirakannangara21@gmail.com) [Linkedin](https://www.linkedin.com/in/ruchira-tharaka-51423b212/)
 
