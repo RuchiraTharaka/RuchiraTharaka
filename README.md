@@ -7,6 +7,11 @@
 <h4 align="left"> ✅ Love thinking🤔, managing👮‍♂️ and innovation🌏</h4>
 <h4 align="left"> ❇️ Into sports🏏, sketching🎨 and enjoying🐵</h4>
 
+<img align="left" alt="coding" width="100" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/photos/bl1.jpg">
+<img align="left" alt="coding" width="100" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/photos/bl2.jpg">
+<img align="left" alt="coding" width="100" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/photos/bl3.jpg">
+<img align="left" alt="coding" width="250" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/photos/cad4.jpeg">
+
 <h3 align="right"> Connect with me</h3>
 <p align="right">
   <a href="https://www.linkedin.com/in/ruchira-tharaka-51423b212/" target="blank"><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/linkedin.png" alt="Ruchira Tharaka" height="30" width="30"/></a>
