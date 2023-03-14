@@ -3,6 +3,8 @@
 <h4 align="left"> 🌱 I’m currently learning Computer Engineering,  3️⃣ year undergraduate</h4>
 <h4 align="left"> ✅ Quick learner </h4>
 <h4 align="left"> ❇️ Enthusiastic and Smart 🐘 Hard Worker 🐎</h4>
+<h4 align="left"> ✅ Love thinking🤔, managing👮‍♂️ and innovation🌏</h4>
+<h4 align="left"> ❇️ Into sports🏏, sketching🎨 and enjoying🐵</h4>
 
 - 📫 How to reach me: @ruchira [Gmail](ruchirakannangara21@gmail.com) [Linkedin](https://www.linkedin.com/in/ruchira-tharaka-51423b212/)
 
