@@ -9,7 +9,7 @@
 <h3 align="left"> Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ruchira-tharaka-51423b212/" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/linkedin.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
-  <a href="ruchirakannangara21@gmail.com" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/gmail.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
+  <a href="mailto:ruchirakannangara21@gmail.com" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/gmail.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
   <a href="https://people.ce.pdn.ac.lk/students/e18/354/" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/uop.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
   <a href="https://www.youtube.com/@ruchiratharaka8532" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/utube.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
   <a href="https://www.facebook.com/profile.php?id=100073391425545" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/fb.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
