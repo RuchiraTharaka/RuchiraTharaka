@@ -7,7 +7,7 @@
 <h4 align="left"> ✅ Love thinking🤔, managing👮‍♂️ and innovation🌏</h4>
 <h4 align="left"> ❇️ Into sports🏏, sketching🎨 and enjoying🐵</h4>
 
-<h3 align="right"> Connect with me</h3></abc>
+<h3 align="right"> Connect with me</h3>
 <p align="right">
   <a href="https://www.linkedin.com/in/ruchira-tharaka-51423b212/" target="blank"><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/linkedin.png" alt="Ruchira Tharaka" height="30" width="30"/></a>
   <a href="mailto:ruchirakannangara21@gmail.com" target="blank" ><img align="center" src="https://github.com/RuchiraTharaka/RuchiraTharaka/blob/main/logos/gmail.png" alt="Ruchira Tharaka" height="30" width="40"/></a>
