@@ -6,6 +6,13 @@
 <h4 align="left"> ❇️ Enthusiastic and Smart 🐘 Hard Worker 🐎</h4>
 <h4 align="left"> ✅ Love thinking🤔, managing👮‍♂️ and innovation🌏</h4>
 <h4 align="left"> ❇️ Into sports🏏, sketching🎨 and enjoying🐵</h4>
+<h3 align="left"> Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruchira-tharaka-51423b212/" target="blank" ><img align="center" src="" alt="Ruchira Tharaka" height="30" width="40"/></a>
+  <a href="" target="blank" ><img align="center" src="" alt="Ruchira Tharaka" height="30" width="40"/></a>
+  <a href="" target="blank" ><img align="center" src="" alt="Ruchira Tharaka" height="30" width="40"/></a>
+  <a href="" target="blank" ><img align="center" src="" alt="Ruchira Tharaka" height="30" width="40"/></a>
+  <a href="" target="blank" ><img align="center" src="" alt="Ruchira Tharaka" height="30" width="40"/></a>
 
 - 📫 How to reach me: @ruchira [Gmail](ruchirakannangara21@gmail.com) [Linkedin](https://www.linkedin.com/in/ruchira-tharaka-51423b212/)
 
